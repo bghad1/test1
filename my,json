@@ -1,0 +1,29 @@
+{
+    "name":"north",
+    "description":"north remembers!",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jan_Gossaert_-_Portrait_of_a_Merchant_-_Google_Art_Project.jpg/444px-Jan_Gossaert_-_Portrait_of_a_Merchant_-_Google_Art_Project.jpg",
+    "attributes":[
+        {
+            "trait_type":"attack",
+            "value":"5"
+        },
+        {
+            "trait_type":"health",
+            "value":"5"
+        },
+        {
+            "trait_type":"speed",
+            "value":"25"
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type":"Stamina Increase",
+            "value": 66
+        },
+        {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 6
+        }
+    ]
+}
